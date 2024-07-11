@@ -1,0 +1,12 @@
+---
+enable: true
+title: "Sponsors"
+partner:
+  - name: "Google"
+    image: "images/sponsors/google.svg"
+    link: "https://developers.google.com/community/gdg"
+  - name: "Do you want to sponsor DevFest Venezia 24? Click here"
+    image: "images/sponsors/partner-placeholder.png"
+    link: "mailto:veneziagdg@gmail.com"
+---
+

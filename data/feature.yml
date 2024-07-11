@@ -1,0 +1,31 @@
+---
+enable: true
+title: "What is DevFest Venice?"
+subtitle: >
+          DevFest returns to Venice: the annual community-organized event for developers and tech enthusiasts.
+features:
+  - name: "DevFest"
+    description: >
+                DevFests are community events organized by Google Developer Groups focused on learning, building, and connecting with fellow developers and tech practitioners
+    icon: "ti-view-grid"
+  - name: "Google Developer Group"
+    description: >
+                Google Developer Groups (GDG) are groups of developers interested in Google technologies: everything ranging from Android, Web, Cloud, Flutter, and much more.
+    icon: "ti-desktop"
+  - name: "When?"
+    description: >
+                Saturday, November 16, 2024, from 9:30 AM to 6:30 PM
+    icon: "ti-image"
+  - name: "200+ people"
+    description: >
+                More than 200 people expected
+    icon: "ti-user"
+  - name: "2+ Tracks"
+    description: >
+                Multiple tracks with sessions in English and Italian.
+    icon: "ti-blackboard"
+  - name: "1 GDG"
+    description: >
+        DevFest Venice 2024 is organized by GDG Venice
+    icon: "ti-user"
+---
