@@ -41,7 +41,7 @@ weight = 4
   googleAnalytics = ""
   image = "images/logo-full.webp"
   logo = "images/logo.webp"
-  footerlogo = "images/logo-full.webp"
+  footerlogo = "images/logo-no-bkg.webp"
   footerDescription = "Organized by <a href=\"https://gdg.community.dev/gdg-venezia/\" target=\"BLANK\">Google Developer Group Venezia</a>."
 
   [params.location]
