@@ -16,16 +16,16 @@ features:
     description: >
                 Saturday, November 16, 2024, from 9:30 AM to 6:30 PM
     icon: "ti-image"
-  - name: "200+ people"
+  - name: "250+ people"
     description: >
-                More than 200 people expected
+                More than 250 people expected
     icon: "ti-user"
   - name: "2+ Tracks"
     description: >
                 Multiple tracks with sessions in English and Italian.
     icon: "ti-blackboard"
-  - name: "1 GDG"
+  - name: "Meet the Companies"
     description: >
-        DevFest Venice 2024 is organized by GDG Venice
+        This year, around 15 companies will have booths at DevFest. Participants can book 15-minute appointments to explore their activities, potential collaboration and job opportunities.
     icon: "ti-user"
 ---

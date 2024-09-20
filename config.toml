@@ -17,22 +17,22 @@ title = 'DevFest Venezia 24'
 #name = "Tickets"
 #url= "#ticket"
 #weight = 3
-[[menu.Main]]
-name = "CFP"
-url= "#cfp"
-weight = 1
+#[[menu.Main]]
+#name = "CFP"
+#url= "#cfp"
+#weight = 1
 [[menu.Main]]
 name = "Sponsors"
 url= "#sponsor"
-weight = 2
+weight = 1
 [[menu.Main]]
 name = "Partners"
 url= "#partner"
-weight = 3
+weight = 2
 [[menu.Main]]
 name = "Location"
 url= "#location"
-weight = 4
+weight = 3
 #  [[menu.Main]]
 
 [params]
