@@ -1,7 +1,7 @@
 ---
 title: "Ahmed Tikiwa - DevFest Venezia 2024"
 name: "Ahmed Tikiwa"
-photo: "/images/speakers/ahmed-tikiwa.webp"
+photo: "/images/speakers/ahmed_tikiwa.webp"
 bio: Ahmed Tikiwa is a Google Developer Expert for Android and a seasoned full-stack developer with over 10 years of experience and possesses a strong passion for developing world-class applications that can help make a difference. He has experience in frontend and backend systems, where he has built enterprise solutions for major telecommunication companies. He is currently a Software Engineer based in Utrecht, The Netherlands and an official contributor to Google Developers Dev Library.
 jobTitle: Google Developer Expert (GDE) Android
 twitter: "https://twitter.com/@ahmed_tikiwa"
