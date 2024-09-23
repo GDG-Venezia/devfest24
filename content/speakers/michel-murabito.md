@@ -17,5 +17,5 @@ presentation:
 <br><br>
 Discuteremo soluzioni concrete e pratiche che migliorano l'efficienza e la produttività, senza ricorrere a parole inflazionate o promesse esagerate. Esamineremo tecniche e strumenti che hanno dimostrato valore nel tempo, garantendo risultati sostenibili soprattutto per chi utilizza questi strumenti ogni giorno.
 <br><br>
-Un approccio sincero e pragmatico al Platform Engineering può portarci lontano. Perché ciò che conta non è il "clamore", ma le vere soluzioni."
+Un approccio sincero e pragmatico al Platform Engineering può portarci lontano. Perché ciò che conta non è il \"clamore\", ma le vere soluzioni."
 ---

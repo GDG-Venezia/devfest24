@@ -7,7 +7,7 @@ jobTitle: NearForm, Senior Software Developer
 twitter: "https://twitter.com/puppo92"
 linkedin: "https://www.linkedin.com/in/lucadelpuppo/"
 website: "https://www.delpuppo.net/"
-featured: false
+featured: true
 lang: it
 presentation:
     title: "Dive into advanced TypeScript"

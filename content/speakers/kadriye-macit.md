@@ -15,9 +15,9 @@ featured: true
 lang: eng
 presentation:
     title: "End-to-End Mobile App Development with Flutter and Firebase"
-    abstract: ""This session will guide you through the entire mobile app development process, from setting up your project to deploying a fully functional app. 
-<br><br>
-You will learn how to leverage Flutter's flexible UI toolkit along with Firebase's backend services such as Authentication, Firestore, Cloud Functions, and more. 
-<br><br>
-Whether you are a beginner or an experienced developer, this presentation will provide you with practical insights and best practices for creating seamless and efficient mobile applications using Flutter and Firebase. ""
+    abstract: "This session will guide you through the entire mobile app development process, from setting up your project to deploying a fully functional app.
+    <br><br>
+    You will learn how to leverage Flutter's flexible UI toolkit along with Firebase's backend services such as Authentication, Firestore, Cloud Functions, and more.
+    <br><br>
+    Whether you are a beginner or an experienced developer, this presentation will provide you with practical insights and best practices for creating seamless and efficient mobile applications using Flutter and Firebase."
 ---
