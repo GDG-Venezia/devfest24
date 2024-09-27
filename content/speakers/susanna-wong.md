@@ -8,7 +8,7 @@ She is a Google Developer Expert in web technologies, and has spoken at multiple
 jobTitle: QuantumBlack, Staff Software engineer
 twitter: "https://twitter.com/studioswong"
 linkedin: "https://www.linkedin.com/in/susanna-wong-london/"
-featured: true
+featured: false
 lang: eng
 presentation:
     title: "WWWAI: Constructing a truly open GenAI app with WebAssembly, WebGPU, and WebAI"
