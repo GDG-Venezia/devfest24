@@ -5,7 +5,7 @@ photo: "/images/speakers/federica_balliana.webp"
 bio: "Front-end developer da alcuni anni, oggi gestisco il Team Front-end in Aton. Nel tempo libero leggo libri, guardo serie e gioco ai videogiochi."
 jobTitle: Front-end Lead, Aton S.p.A. Società Benefit
 linkedin: "https://www.linkedin.com/in/federica-balliana-a601bb197/"
-featured: false
+featured: true
 lang: it
 presentation:
     title: "Github Copilot, scelgo te(?) Come l'Intelligenza Artificiale ha cambiato la nostra Dev Experience"
