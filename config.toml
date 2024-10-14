@@ -13,10 +13,10 @@ weight = 1
 #name = "Agenda"
 #url= "agenda/"
 #weight = 2
-#[[menu.Main]]
-#name = "Tickets"
-#url= "#ticket"
-#weight = 3
+[[menu.Main]]
+name = "Tickets"
+url= "#ticket"
+weight = 2
 #[[menu.Main]]
 #name = "CFP"
 #url= "#cfp"
@@ -24,15 +24,15 @@ weight = 1
 [[menu.Main]]
 name = "Sponsors"
 url= "#sponsor"
-weight = 2
+weight = 3
 [[menu.Main]]
 name = "Partners"
 url= "#partner"
-weight = 3
+weight = 4
 [[menu.Main]]
 name = "Location"
 url= "#location"
-weight = 4
+weight = 5
 #  [[menu.Main]]
 
 [params]
