@@ -7,6 +7,6 @@ itemPrices:
   - description: >
                 Ticket valid for entry.
     price: DevFest Venezia 24
-#    buttonTarget: "https://gdg.community.dev/events/details/google-gdg-venezia-presents-devfest-venezia-2023/"
+    buttonTarget: "https://gdg.community.dev/events/details/google-gdg-venezia-presents-devfest-venezia-2024/"
 
 ---
