@@ -9,14 +9,14 @@ title = 'DevFest Venezia 24'
 name = "Speakers"
 url= "speakers/"
 weight = 1
-#[[menu.Main]]
-#name = "Agenda"
-#url= "agenda/"
-#weight = 2
+[[menu.Main]]
+name = "Agenda"
+url= "agenda/"
+weight = 2
 [[menu.Main]]
 name = "Tickets"
 url= "#ticket"
-weight = 2
+weight = 3
 #[[menu.Main]]
 #name = "CFP"
 #url= "#cfp"
@@ -24,15 +24,15 @@ weight = 2
 [[menu.Main]]
 name = "Sponsors"
 url= "#sponsor"
-weight = 3
+weight = 4
 [[menu.Main]]
 name = "Partners"
 url= "#partner"
-weight = 4
+weight = 5
 [[menu.Main]]
 name = "Location"
 url= "#location"
-weight = 5
+weight = 6
 #  [[menu.Main]]
 
 [params]
