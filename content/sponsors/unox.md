@@ -7,4 +7,5 @@ Pluripremiata dal Great Place to Work® Institute per l’innovazione, la parit�
 170 neolaureati assunti negli ultimi due anni; ci impegniamo ogni giorno per creare professionalità eccellenti e costruire un ponte tra università e azienda."
 website: "https://www.unox.com/it_it/"
 youtube: kUdXSw6xFO0
+careers: È possibile inviare la propria candidatura attraverso la sezione “Lavora con Noi” del nostro sito <a href="www.unox.com">www.unox.com</a> oppure attraverso l'email <a href="mailto:recruitment@unox.com">recruitment@unox.com</a>
 ---
