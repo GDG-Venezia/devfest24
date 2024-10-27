@@ -8,7 +8,7 @@ jobTitle: Author of the Angular Cookbook (2x), Educator, Google Developers Exper
 twitter: "https://twitter.com/codewith_ahsan"
 linkedin: "https://linkedin.com/in/ahsanayaz"
 website: "https://codewithahsan.dev/"
-featured: false
+featured: true
 lang: eng
 presentation:
     title: "The Offline AI in Your Pocket: How Google Gemini Nano Turns Chrome into a Secret Superpower"
