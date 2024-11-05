@@ -8,8 +8,10 @@ linkedin: "https://www.linkedin.com/in/simonecolucci/"
 featured: false
 lang: eng
 presentation:
-    title: "LLM pipelines built for critical performances"
-    abstract: "When designing LLM-based applications, it’s tempting to go with the best-in-class of any component in the content generation pipeline. Yet, especially in consumer use cases, we must evaluate trade-offs to balance content quality and performances, as they both severely impact UX and one cannot compensate the other.
+    title: "Actionable user feedbacks for LLM applications"
+    abstract: "LLM-based use cases are getting introduced and implemented within digital products every day. Yet, revolutionary as these new tools might be, product teams must stay grounded to actual user requirements and measure their effectiveness within the boundaries of product management best practices. This means observing user behaviour, A/B testing to validate product assumptions, monitoring and assessing user experience.
 <br><br>
-Picking from our own experience building a consumer app serving users real-time content generated on the fly with a complex LLM pipeline, we will explore lessons learnt, tips and tricks to find the sweet spot between these two contrasting forces."
+But how can traditional product analytics work with the non deterministic nature of LLM outputs?
+<br><br>
+In this talk we’ll explore how open-source project Langfuse can help correlating user actions or explicit feedbacks to LLM generations, so that the team can quickly A/B test different versions of prompting and measure what works best for the final users."
 ---
