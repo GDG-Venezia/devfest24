@@ -5,6 +5,7 @@ photo: "/images/sponsors/2night.png"
 desc: "Fondiamo creatività e innovazione tecnologica per creare attivazioni esperienziali emozionanti, che creino una connessione tra le persone e i brand.
 Dal 2000 trasformiamo idee audaci in soluzioni innovative attraverso un approccio creativo e strategico: la nostra forza risiede nella capacità di vedere oltre l'ordinario, creando esperienze che ispirano, emozionano e innescano cambiamenti tangibili nel mondo dei brand."
 website: "https://www.2night.it/"
+youtube: H8jnSHGQeRk 
 careers: "Innovate.<br>
 Create.<br>
 Stand Out.<br>
