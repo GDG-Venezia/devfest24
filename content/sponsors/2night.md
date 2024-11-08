@@ -11,7 +11,7 @@ Create.<br>
 Stand Out.<br>
 We are 2nighters.
 <br><br>
-Conosci il team dei Future Hackers di 2night e scopri come lavorano partecipando allo speech di Daniele Vian (Co-founder & CTO) e di Andrea Fontana (SW Architect Expert). Ti aspettiamo alle 10:00!
+Conosci il team dei Future Hackers di 2night e scopri come lavorano partecipando allo speech di Daniele Vian (Co-founder & CTO) e di Andrea Fontana (SW Architect Expert). Ti aspettiamo alle 10:25!
 <br><br>
 Per unirti al team, candidati qui <a href='https://company.2night.it/career/junior-technologist'>https://company.2night.it/career/junior-technologist</a>, oppure visita il nostro desk al piano -1 del DevFest Venezia 24 dalle 9.30 alle 15.00"
 ---
