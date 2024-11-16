@@ -11,11 +11,14 @@ website: "https://codewithahsan.dev/"
 featured: true
 lang: eng
 presentation:
-    title: "The Offline AI in Your Pocket: How Google Gemini Nano Turns Chrome into a Secret Superpower"
-    abstract: "Artificial Intelligence has transformed from a futuristic concept into an everyday reality, shaping industries and redefining our interaction with technology. But what if this powerful technology could be at your fingertips, even when you’re offline? In this talk, we’ll explore the fascinating evolution of AI, tracing its journey from early models to the groundbreaking innovations of today.
-We'll dive into Google’s Gemini Models, focusing on the revolutionary Gemini Nano—a compact yet powerful AI that can run directly within your Chrome browser without requiring an internet connection. This offline AI model is a game-changer, offering you unprecedented capabilities right in your pocket.
-Through a detailed exploration and a live demonstration, we’ll show how the open-sourced Gemini Nano demo app, available on GitHub, exemplifies the potential of this technology. You’ll see firsthand how this AI model can transform Chrome into a tool that not only enhances productivity but also opens new doors for developers and tech enthusiasts alike.
-Whether you're an AI enthusiast, a developer, or just curious about the future of technology, this talk will reveal how Google Gemini Nano is setting a new standard for AI accessibility and innovation."
+    title: "What If Your Content Could Talk? RAG Meets Google Gemini for AI-Driven Engagement and Sales"
+    abstract: "What if your content could talk back? In this talk, we explore how AI can transform static content into interactive conversations that engage users and drive business results. Using Google Gemini and Retrieval Augmented Generation (RAG), I built a custom AI assistant for my Angular Cookbook website, turning a simple website and a traditional book into an intelligent, interactive resource.
+<br><br>
+Attendees will discover how Google Gemini powers real-time user queries, delivering not only relevant information but also links to demos and GitHub repositories, all while enhancing user experience and engagement. We’ll dive into the tech stack—Google Gemini, LLAMA Index, RAG, and Python—that made this AI assistant possible, along with a live demo showcasing how the assistant works in action.
+<br><br>
+Whether you're a developer, content creator, or business owner, this talk will show you how AI can turn your content into a conversation, ultimately boosting user engagement and unlocking new sales potential.
+<br><br>
+Join me to learn how you can leverage AI to bring your content to life!"
 ---
 
 
